@@ -33,11 +33,15 @@ this Software support All operating System
 - Web
 ## Admin Screenshots
 
- - secreen shot1
- ![App Screenshot](https://github.com/Learn2Earn-Team/Protection-Cops/Screenshot/1.PNG)
-![App Screenshot](https://learn2earnn.com/Portfolio/gitimages/Property-2.PNG)
-![App Screenshot](https://learn2earnn.com/Portfolio/gitimages/Property-3.PNG)
-![App Screenshot](https://learn2earnn.com/Portfolio/gitimages/Property-4.PNG)
+ 
+ ![App Screenshot](Multipurpose/mobile1.png)
+![App Screenshot](Multipurpose/mobile2.png)
+![App Screenshot](Multipurpose/mobile3.png)
+![App Screenshot](Multipurpose/mobile4.png)
+ ![App Screenshot](Multipurpose/mobile5.png)
+![App Screenshot](Multipurpose/mobile6.png)
+![App Screenshot](Multipurpose/mobile7.png)
+![App Screenshot](Multipurpose/mobile8.png)
 
 ## Technologies & Lnaguages 
 
