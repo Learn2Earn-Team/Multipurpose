@@ -31,7 +31,7 @@ this Software support All operating System
 - IOS
 - Desktop
 - Web
-## Admin Screenshots
+## App Screenshots
 
  
  ![App Screenshot](Multipurpose/mobile1.png)
